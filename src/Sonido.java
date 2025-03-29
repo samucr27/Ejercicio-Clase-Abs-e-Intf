@@ -1,0 +1,3 @@
+interface Sonido {
+    void hacerSonido();
+}
